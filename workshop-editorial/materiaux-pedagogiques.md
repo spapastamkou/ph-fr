@@ -15,7 +15,7 @@ date: 2021-02-01
 
 ### Leçons originales  
 
-**Nicolas Frerebeau, Brice Lebrun, *Calibrer des âges radiocarbone avec R*.****
+**Nicolas Frerebeau, Brice Lebrun, *Calibrer des âges radiocarbone avec R*.**
 
 [Ticket de proposition](https://github.com/programminghistorian/ph-submissions/issues/308)  
 [Ticket d'évaluation](https://github.com/programminghistorian/ph-submissions/issues/329)  
