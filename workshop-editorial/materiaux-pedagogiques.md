@@ -3,7 +3,7 @@ title: Matériaux pédagogiques
 author: 
 - Sofia Papastamkou
 date: 2021-02-01
-toc: true 
+
 ---
 
 
