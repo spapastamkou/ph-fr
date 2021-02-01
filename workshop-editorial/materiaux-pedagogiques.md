@@ -5,6 +5,7 @@ author:
 date: 2021-02-01 
 ---
 
+{% include toc.html %}
 
 ## Textes de base  
 
