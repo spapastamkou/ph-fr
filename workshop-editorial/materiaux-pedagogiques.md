@@ -2,10 +2,10 @@
 title: Matériaux pédagogiques 
 author: 
 - Sofia Papastamkou
-date: 2021-02-01 
+date: 2021-02-01
+toc: true 
 ---
 
-{% include toc.html %}
 
 ## Textes de base  
 
