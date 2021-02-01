@@ -31,7 +31,7 @@ Défis:
 - se repérer dans les réseaux des archéologues pour organiser l'évaluation par les pairs: quelles stratégies possibles?  
 
 
-**Charlie Harper, [*Visualizing Data with Bokeh and Pandas*](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)**
+**Charlie Harper, [*Visualizing Data with Bokeh and Pandas*](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)**  
 [Ticket d'évaluation](https://github.com/programminghistorian/ph-submissions/issues/152)  
 Suivi éditorial: Ian Milligan, James Baker 
 
