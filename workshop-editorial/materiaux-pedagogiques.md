@@ -32,7 +32,7 @@ Défis:
 
 
 Charlie Harper, [*Visualizing Data with Bokeh and Pandas*](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
-[Ticket d'évaluation](https://github.com/programminghistorian/ph-submissions/issues/152)
+[Ticket d'évaluation](https://github.com/programminghistorian/ph-submissions/issues/152)  
 Suivi éditorial: Ian Milligan, James Baker 
 
 Intérêt: 
@@ -42,7 +42,7 @@ Intérêt:
 
 ### Traductions  
 
-Fred Gibbs, [*Installation de bibliothèques Python avec pip*](https://programminghistorian.org/fr/lecons/installation-modules-python-pip), traduit par Lucas Terriel 
+Fred Gibbs, [*Installation de bibliothèques Python avec pip*](https://programminghistorian.org/fr/lecons/installation-modules-python-pip), traduit par Lucas Terriel   
 [Ticket de relecture de traduction](https://github.com/programminghistorian/ph-submissions/issues/320) 
 
 Intérêt:
