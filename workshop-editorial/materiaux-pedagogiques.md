@@ -42,7 +42,7 @@ Intérêt:
 
 ### Traductions  
 
-**Fred Gibbs, [*Installation de bibliothèques Python avec pip*](https://programminghistorian.org/fr/lecons/installation-modules-python-pip), traduit par Lucas Terriel ** 
+**Fred Gibbs, [*Installation de bibliothèques Python avec pip*](https://programminghistorian.org/fr/lecons/installation-modules-python-pip), traduit par Lucas Terriel** 
    
 [Ticket de relecture de traduction](https://github.com/programminghistorian/ph-submissions/issues/320) 
 
@@ -61,7 +61,7 @@ Intérêt:
 - exemple d'endogamie absolue:-): traduction, suivi éditorial et relecture assurés par les membres de l'équipe; 
 - exemple d'organisation pour faire avancer des traductions rapidement (ici: priorité à la série des leçons Python).   
 
-***Générer un jeu de données ordonnées à partir d’un texte océrisé*, traduit par Antoine Gourlak **
+***Générer un jeu de données ordonnées à partir d’un texte océrisé*, traduit par Antoine Gourlak**
 
 [Ticket de proposition](https://github.com/programminghistorian/ph-submissions/issues/280)  
 
