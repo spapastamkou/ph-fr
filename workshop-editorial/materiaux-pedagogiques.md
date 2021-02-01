@@ -74,4 +74,8 @@ Intérêt:
 [FR PH Submission & Publication Tracking Kanban](https://github.com/programminghistorian/jekyll/projects/5)  
 [Programming Historian Reviewer Tracking](https://docs.google.com/spreadsheets/d/1EMQyVpIYnWjNr4hEQDDilkUl28gGPA2gSLjp61_AFgM/edit?usp=sharing)   
 [Programming Historian en français - Liste des traductions](https://docs.google.com/spreadsheets/d/1nj520xwTYnfxItzisGL096Oo28D-wOST82At2BZy8OI/edit#gid=0)   
-[Programming Historian en français - Liste des contributeurs](https://docs.google.com/spreadsheets/d/1THqVCECRE1ZaGoLnTnX8Q_rSM0fvaWmugOHpLzSD9dI/edit#gid=0)   
+[Programming Historian en français - Liste des contributeurs](https://docs.google.com/spreadsheets/d/1THqVCECRE1ZaGoLnTnX8Q_rSM0fvaWmugOHpLzSD9dI/edit#gid=0)  
+
+## Nos choix de traduction du site  
+
+Se renseigner sur nos choix initiaux concernant la terminologie et l'écriture inclusive en consultant la [documentation disponible sur le wiki](https://github.com/programminghistorian/jekyll/wiki/French-Translation-Documentation).      
