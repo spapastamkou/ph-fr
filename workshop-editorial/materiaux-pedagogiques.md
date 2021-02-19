@@ -30,6 +30,7 @@ Défis:
 
 - effectuer une première évaluation de la leçon en tant que rédactrice: comment faire pour un domaine peu familier?  
 - se repérer dans les réseaux des archéologues pour organiser l'évaluation par les pairs: quelles stratégies possibles?  
+  
 
 
 **Charlie Harper, [*Visualizing Data with Bokeh and Pandas*](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)**  
@@ -51,7 +52,8 @@ Intérêt:
 - offre spontanée de traduction;   
 - travail très propre du traducteur; 
 - échanges entre le traducteur, le relecteur et un membre de la communauté; 
-- exemple de relecture de traduction organisé entre membres de l'équipe.
+- exemple de relecture de traduction organisé entre membres de l'équipe.  
+
 
 **William J. Turkel, Adam Crymble, [*Installer un environnement de développement pour Python (Windows)*](https://programminghistorian.org/fr/lecons/installation-windows-py), traduit par Sofia Papastamkou**
 
@@ -60,7 +62,8 @@ Intérêt:
 Intérêt: 
 
 - exemple d'endogamie absolue:-): traduction, suivi éditorial et relecture assurés par les membres de l'équipe; 
-- exemple d'organisation pour faire avancer des traductions rapidement (ici: priorité à la série des leçons Python).   
+- exemple d'organisation pour faire avancer des traductions rapidement (ici: priorité à la série des leçons Python).  
+   
 
 ***Générer un jeu de données ordonnées à partir d’un texte océrisé*, traduit par Antoine Gourlak**
 
@@ -69,7 +72,7 @@ Intérêt:
 Intérêt: 
 - offre spontanée de traduction; 
 - effet de chaîne: la traductrice d'une autre leçon, a vu le ticket et a proposé ses services pour la relecture; 
-- occasion perdue: nous n'avons pas organisé le processus éditorial dans des délais raisonnables (une relectrice perdue (?), un traducteur dont on retient le travail pendant plusieurs mois est peut-être un traducteur qui ne sera pas motivé ensuite). 
+- défi: nous n'avons pas organisé le processus éditorial dans des délais raisonnables (une relectrice perdue (?), un traducteur dont on retient le travail pendant plusieurs mois est peut-être un traducteur qui ne sera pas motivé ensuite). 
 
 ## Organisation de l'équipe 
 
