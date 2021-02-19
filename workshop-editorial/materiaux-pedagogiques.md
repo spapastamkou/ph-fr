@@ -16,7 +16,7 @@ date: 2021-02-01
 
 ### Leçons originales  
 
-**Nicolas Frerebeau, Brice Lebrun, *Calibrer des âges radiocarbone avec R*.**
+#### **Nicolas Frerebeau, Brice Lebrun, *Calibrer des âges radiocarbone avec R*.**
 
 [Ticket de proposition](https://github.com/programminghistorian/ph-submissions/issues/308)  
 [Ticket d'évaluation](https://github.com/programminghistorian/ph-submissions/issues/329)  
@@ -33,7 +33,7 @@ Défis:
   
 
 
-**Charlie Harper, [*Visualizing Data with Bokeh and Pandas*](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)**  
+#### **Charlie Harper, [*Visualizing Data with Bokeh and Pandas*](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)**  
 [Ticket d'évaluation](https://github.com/programminghistorian/ph-submissions/issues/152)  
 Suivi éditorial: Ian Milligan, James Baker 
 
@@ -44,7 +44,7 @@ Intérêt:
 
 ### Traductions  
 
-**Fred Gibbs, [*Installation de bibliothèques Python avec pip*](https://programminghistorian.org/fr/lecons/installation-modules-python-pip), traduit par Lucas Terriel** 
+#### **Fred Gibbs, [*Installation de bibliothèques Python avec pip*](https://programminghistorian.org/fr/lecons/installation-modules-python-pip), traduit par Lucas Terriel** 
    
 [Ticket de relecture de traduction](https://github.com/programminghistorian/ph-submissions/issues/320) 
 
@@ -55,7 +55,7 @@ Intérêt:
 - exemple de relecture de traduction organisé entre membres de l'équipe.  
 
 
-**William J. Turkel, Adam Crymble, [*Installer un environnement de développement pour Python (Windows)*](https://programminghistorian.org/fr/lecons/installation-windows-py), traduit par Sofia Papastamkou**
+#### **William J. Turkel, Adam Crymble, [*Installer un environnement de développement pour Python (Windows)*](https://programminghistorian.org/fr/lecons/installation-windows-py), traduit par Sofia Papastamkou**
 
 [Ticket de relecture de traduction](https://github.com/programminghistorian/ph-submissions/issues/297)  
 
@@ -65,7 +65,7 @@ Intérêt:
 - exemple d'organisation pour faire avancer des traductions rapidement (ici: priorité à la série des leçons Python).  
    
 
-***Générer un jeu de données ordonnées à partir d’un texte océrisé*, traduit par Antoine Gourlak**
+#### ***Générer un jeu de données ordonnées à partir d’un texte océrisé*, traduit par Antoine Gourlak**
 
 [Ticket de proposition](https://github.com/programminghistorian/ph-submissions/issues/280)  
 
