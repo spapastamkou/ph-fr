@@ -10,7 +10,9 @@ date: 2021-02-01
 ## Textes de base  
 
 - [Consignes aux rédacteurs et aux rédactrices](https://programminghistorian.org/fr/consignes-redacteurs): savoir ses missions!
-- [Consignes aux auteur(e)s](https://programminghistorian.org/fr/consignes-auteurs), [consignes aux traducteurs et traductrices](https://programminghistorian.org/fr/consignes-traducteurs), [consignes aux évaluateurs et évaluatrices](https://programminghistorian.org/fr/consignes-evaluateurs): savoir guider ses interlocuteurs et interlocutrices lors des différentes étapes du processus éditorial.    
+- [Consignes aux auteur(e)s](https://programminghistorian.org/fr/consignes-auteurs), [consignes aux traducteurs et traductrices](https://programminghistorian.org/fr/consignes-traducteurs), [consignes aux évaluateurs et évaluatrices](https://programminghistorian.org/fr/consignes-evaluateurs): savoir guider ses interlocuteurs et interlocutrices lors des différentes étapes du processus éditorial. 
+
+[Training and Support for Editorial Work](https://github.com/programminghistorian/jekyll/wiki/Training-and-Support-for-Editorial-Work)    
 
 ## Tickets de suivi éditorial 
 
