@@ -9,10 +9,10 @@ date: 2021-02-01
 
 ## Textes de base  
 
+- [Privileges and Responsibilities of Membership](https://github.com/programminghistorian/jekyll/wiki/Privileges-and-Responsibilities-of-Membership)  
 - [Consignes aux rédacteurs et aux rédactrices](https://programminghistorian.org/fr/consignes-redacteurs): savoir ses missions!
-- [Consignes aux auteur(e)s](https://programminghistorian.org/fr/consignes-auteurs), [consignes aux traducteurs et traductrices](https://programminghistorian.org/fr/consignes-traducteurs), [consignes aux évaluateurs et évaluatrices](https://programminghistorian.org/fr/consignes-evaluateurs): savoir guider ses interlocuteurs et interlocutrices lors des différentes étapes du processus éditorial. 
-
-[Training and Support for Editorial Work](https://github.com/programminghistorian/jekyll/wiki/Training-and-Support-for-Editorial-Work)    
+- [Consignes aux auteur(e)s](https://programminghistorian.org/fr/consignes-auteurs), [consignes aux traducteurs et traductrices](https://programminghistorian.org/fr/consignes-traducteurs), [consignes aux évaluateurs et évaluatrices](https://programminghistorian.org/fr/consignes-evaluateurs): savoir guider ses interlocuteurs et interlocutrices lors des différentes étapes du processus éditorial.  
+- 2 vidéos préparées par Adam Crymble avec quelques idées pour organiser l'évaluation par les pairs: [Training and Support for Editorial Work](https://github.com/programminghistorian/jekyll/wiki/Training-and-Support-for-Editorial-Work)    
 
 ## Tickets de suivi éditorial 
 
